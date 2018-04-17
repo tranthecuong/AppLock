@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_sort_az"
+        android:orderInCategory="100"
+        android:title="@string/action_sort_az"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_za"
+        android:orderInCategory="100"
+        android:title="@string/action_sort_za"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_by_lock"
+        android:orderInCategory="100"
+        android:title="Sắp xếp theo app khóa"
+        app:showAsAction="never"
+        />
+</menu>

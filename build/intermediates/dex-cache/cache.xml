@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_84b1b73591647da9966bcaeaa516bd46cd18ffd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\596e51fa1aab2a31e9708b8ca63b092a1bd23eb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_26e43340d5cbbc94985094435e80b1642bb91cbd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_84b1b73591647da9966bcaeaa516bd46cd18ffd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\596e51fa1aab2a31e9708b8ca63b092a1bd23eb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26e43340d5cbbc94985094435e80b1642bb91cbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\950298eaa1b18230e2b7df0a986faec621730218\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_393658c286d60619ee83f32db01c44bd2c9479e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\17501795f36f483005eb680f54dcf156e6079c46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_291695852ae2f3f95b17a61adb115fda92a83a7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\950298eaa1b18230e2b7df0a986faec621730218\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_393658c286d60619ee83f32db01c44bd2c9479e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\17501795f36f483005eb680f54dcf156e6079c46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_291695852ae2f3f95b17a61adb115fda92a83a7c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\9f0cfd328308405502c8ab3e394411d7954dbe72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee2aa7292b294aba7c64d1b326ef77c1165046bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\3e51807f09363db3ab968b933187d89f84db9cd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_001054f77ae0a66aac07d198113d14026f7f3657.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\4ef3f8d7163f70c51033cabb3c0a3ca90d015a00\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e66fc1e1b8b3389d086a5b0a4e1d9133288851c">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_195d1f161e461978befebb54bb10509a47ce370a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\3e51807f09363db3ab968b933187d89f84db9cd6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_001054f77ae0a66aac07d198113d14026f7f3657\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\4ef3f8d7163f70c51033cabb3c0a3ca90d015a00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e66fc1e1b8b3389d086a5b0a4e1d9133288851c">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_195d1f161e461978befebb54bb10509a47ce370a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\4878005d9a5462bf6c2c0c787a66b6c5022253a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_968020594e0a50113c824ec6eb36a1f53e67189d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.2\cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9\rxjava-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\rxjava-2.0.2_e584ba8f99f5ea0c85a2358270e785045d5f7ddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\9f0cfd328308405502c8ab3e394411d7954dbe72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_ee2aa7292b294aba7c64d1b326ef77c1165046bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\0b6ca375ec8925a86878415f66d04613fae47f26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9231791bc9c78eedf2d779c185dc41b6dc53efcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\0b6ca375ec8925a86878415f66d04613fae47f26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_9231791bc9c78eedf2d779c185dc41b6dc53efcf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.2\cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9\rxjava-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.2_e584ba8f99f5ea0c85a2358270e785045d5f7ddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\ccd49b92e54d25acd3d62699f18fead65e893f8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d3975dbc8837b029e3cd6ef3b2e779f8461bf8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\1363dc2a45edc3499aee696f23134db2b6d9f2ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_42e81c04010444f05d523bce5a27ed1829486762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\ccd49b92e54d25acd3d62699f18fead65e893f8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_2d3975dbc8837b029e3cd6ef3b2e779f8461bf8e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\4878005d9a5462bf6c2c0c787a66b6c5022253a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_968020594e0a50113c824ec6eb36a1f53e67189d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AppLockCuong\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5aa7ea0c25314f9e4eb1fef3aba4b62301e8ca76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\6f61a1eacb06def51086ef0ded23da5e51f312ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d2a592f25f75c578eabb23bb056ad15e25e3110\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\9244019373d4fba68cd2538dcfc6ca12ab83baf2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_ca825cb22caa3672e7375cb41c3ecc62c46bc21b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\2b48196395b75bf337e4678dcdf51b8b32880122\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_a393e4ff7b9ff9d23c565850e0a851de44813f8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\6f61a1eacb06def51086ef0ded23da5e51f312ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_3d2a592f25f75c578eabb23bb056ad15e25e3110.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\1363dc2a45edc3499aee696f23134db2b6d9f2ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42e81c04010444f05d523bce5a27ed1829486762\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\2b48196395b75bf337e4678dcdf51b8b32880122\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a393e4ff7b9ff9d23c565850e0a851de44813f8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_0dbe93c591411a84bbb9ecbb6c87ee8db204c38b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_0dbe93c591411a84bbb9ecbb6c87ee8db204c38b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\9244019373d4fba68cd2538dcfc6ca12ab83baf2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca825cb22caa3672e7375cb41c3ecc62c46bc21b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_072e52fd88ad6fc6252baee8388fa92ed2f91ca6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\1c5e2cfa01e50045f6d41f818d0f651d5eac6ba9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e2aeff15b1e311424154403edc2fb0d6ce76c0d2">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60b6f3e2c3b33e57f8b8dec7bde97f848d9b6613\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_072e52fd88ad6fc6252baee8388fa92ed2f91ca6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\8cd85f09acbf70e734670c2849c862264fa74544\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21d5aff81a43d20a14f82d653366c9b7a215071c">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47d738c568b7f88829281016a92755a653e613e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\1c5e2cfa01e50045f6d41f818d0f651d5eac6ba9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e2aeff15b1e311424154403edc2fb0d6ce76c0d2">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_60b6f3e2c3b33e57f8b8dec7bde97f848d9b6613.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AppLockCuong\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6043c55db88f493333f71d267089aa351dffb513">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_06512eb18e67a50bd3713930982755b81674be1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\69a1fbf65bbde77257b9b527f09f467fffbe0e70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfb54fdc9815139974399773e9bc3b326cb3cf3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\0c6e74201f9b949619cc918cd1cccaa7192c3127\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_e62cb6cf24a4645ddc2739ad675892a9d66aaf04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cuongtran\.android\build-cache\0c6e74201f9b949619cc918cd1cccaa7192c3127\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e62cb6cf24a4645ddc2739ad675892a9d66aaf04\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\69a1fbf65bbde77257b9b527f09f467fffbe0e70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_dfb54fdc9815139974399773e9bc3b326cb3cf3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cuongtran\.android\build-cache\8cd85f09acbf70e734670c2849c862264fa74544\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21d5aff81a43d20a14f82d653366c9b7a215071c">
+        <dex dex="F:\AppLockCuong\app\build\intermediates\pre-dexed\debug\classes_47d738c568b7f88829281016a92755a653e613e3.jar" />
+    </item>
+
+</items>

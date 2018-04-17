@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:id="@+id/iv_icon_app"
+        android:src="@drawable/ic_lock_outline_black_24dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="34dp"
+        android:text="Vẽ kiểu mở khoá"
+        android:fontFamily="sans-serif"
+        android:textSize="20sp"
+        android:id="@+id/tv_notification"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/iv_icon_app"
+        android:layout_centerHorizontal="true" />
+
+    <com.andrognito.patternlockview.PatternLockView
+        android:id="@+id/pattern_lock_view"
+        android:layout_marginTop="230dp"
+        android:layout_width="300dp"
+        android:layout_centerHorizontal="true"
+        app:normalStateColor="#FFFFFF"
+        android:layout_height="300dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_del"
+        android:text="Xóa"
+        android:textColor="#ffffff"
+        android:textAllCaps="false"
+        android:background="@drawable/my_button"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:fontFamily="serif"
+        android:layout_toLeftOf="@+id/btn_continue"
+        android:layout_toStartOf="@+id/btn_continue" />
+    <Button
+        android:enabled="false"
+        android:fontFamily="serif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_continue"
+        android:background="@drawable/my_button"
+        android:text="Tiếp tục"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:layout_margin="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>
